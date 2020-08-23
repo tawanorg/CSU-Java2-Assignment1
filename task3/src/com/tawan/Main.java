@@ -1,6 +1,5 @@
 package com.tawan;
 
-import java.lang.annotation.Retention;
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
